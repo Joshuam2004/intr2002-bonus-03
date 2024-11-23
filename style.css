@@ -1,0 +1,16 @@
+body {
+    font-family: "Verdana";
+
+    }
+    
+    .btn-primary
+    {
+        background-color:rgb(110, 36, 6);
+        border-color: rgb(110, 26, 6);
+        border-radius:0;
+    }
+    
+    #nav a.active
+    {
+        background-color: black !important;
+    } 
